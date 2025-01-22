@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b67f75fc-75e5-4dc1-992b-b09797b741e0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;minjee2758&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/minjee2758/JavaPractice.git&quot;,
+    &quot;accountId&quot;: &quot;4673dd57-427e-4aa9-bfb1-76e186f617fe&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2rNnjpZCk3hxjQKsVcHyFfEKAhg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Array1Ref2.executor": "Run",
+    "Application.Array1Ref3.executor": "Run",
+    "Application.ArrayDi4.executor": "Run",
+    "Application.ArrayEx1.executor": "Run",
+    "Application.ArrayEx2.executor": "Run",
+    "Application.ArrayEx3.executor": "Run",
+    "Application.ArrayEx4.executor": "Run",
+    "Application.ArrayEx5.executor": "Run",
+    "Application.ArrayEx6.executor": "Run",
+    "Application.ArrayEx7.executor": "Run",
+    "Application.ArrayEx8.executor": "Run",
+    "Application.Assign1.executor": "Run",
+    "Application.Break1.executor": "Run",
+    "Application.Break2.executor": "Run",
+    "Application.Casting1.executor": "Run",
+    "Application.Casting2.executor": "Run",
+    "Application.Casting4.executor": "Run",
+    "Application.ChangeVarEx.executor": "Run",
+    "Application.CommentJava.executor": "Run",
+    "Application.Comp1.executor": "Run",
+    "Application.Comp2.executor": "Run",
+    "Application.CondOp1.executor": "Run",
+    "Application.CondOp2.executor": "Run",
+    "Application.DistanceEx.executor": "Run",
+    "Application.DoWhile1.executor": "Run",
+    "Application.DoWhile2.executor": "Run",
+    "Application.EnhancedFor1.executor": "Run",
+    "Application.EvenOddEx.executor": "Run",
+    "Application.ExchangeRateEx.executor": "Run",
+    "Application.For1.executor": "Run",
+    "Application.For2.executor": "Run",
+    "Application.GradeSwitchEx.executor": "Run",
+    "Application.If1.executor": "Run",
+    "Application.If2.executor": "Run",
+    "Application.If3.executor": "Run",
+    "Application.Logical1.executor": "Run",
+    "Application.Logical2.executor": "Run",
+    "Application.Method1Ref.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.MethodCasting1.executor": "Run",
+    "Application.MethodCating2.executor": "Run",
+    "Application.MethodEx1.executor": "Run",
+    "Application.MethodEx2.executor": "Run",
+    "Application.MethodEx4.executor": "Run",
+    "Application.MethodReturn1.executor": "Run",
+    "Application.MethodReturn2.executor": "Run",
+    "Application.MethodValue1.executor": "Run",
+    "Application.MethodValue2.executor": "Run",
+    "Application.NestedEx1.executor": "Run",
+    "Application.NestedEx2.executor": "Run",
+    "Application.OperationEx1.executor": "Run",
+    "Application.OperationEx2.executor": "Run",
+    "Application.Operator1.executor": "Run",
+    "Application.Operator2.executor": "Run",
+    "Application.Operator3.executor": "Run",
+    "Application.Operator4.executor": "Run",
+    "Application.OperatorAdd1.executor": "Run",
+    "Application.OperatorAdd2.executor": "Run",
+    "Application.OperatorEx3.executor": "Run",
+    "Application.Overloading3.executor": "Run",
+    "Application.ProductAdminEx.executor": "Run",
+    "Application.Scanner1.executor": "Run",
+    "Application.Scanner2.executor": "Run",
+    "Application.Scanner3.executor": "Run",
+    "Application.ScannerEx1.executor": "Run",
+    "Application.ScannerEx2.executor": "Run",
+    "Application.ScannerEx3.executor": "Run",
+    "Application.ScannerEx4.executor": "Run",
+    "Application.ScannerEx5.executor": "Run",
+    "Application.ScannerWhile1.executor": "Run",
+    "Application.ScannerWhile2.executor": "Run",
+    "Application.ScannerWhile3.executor": "Run",
+    "Application.ScannerWhileEx1.executor": "Run",
+    "Application.ScannerWhileEx2.executor": "Run",
+    "Application.ScannerWhileEx3.executor": "Run",
+    "Application.ScannerWhileEx4.executor": "Run",
+    "Application.Scope1.executor": "Run",
+    "Application.Scope2.executor": "Run",
+    "Application.Scope3_1.executor": "Run",
+    "Application.ScoreEx.executor": "Run",
+    "Application.Switch1.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.Switch3.executor": "Run",
+    "Application.Var1.executor": "Run",
+    "Application.Var2.executor": "Run",
+    "Application.Var3.executor": "Run",
+    "Application.Var5.executor": "Run",
+    "Application.Var6.executor": "Run",
+    "Application.Var7.executor": "Run",
+    "Application.VarEx1.executor": "Run",
+    "Application.VarEx2.executor": "Run",
+    "Application.VarEx3.executor": "Run",
+    "Application.While1_2.executor": "Run",
+    "Application.While2_1.executor": "Run",
+    "Application.While2_2.executor": "Run",
+    "Application.While2_3.executor": "Run",
+    "Application.WhileEx1.executor": "Run",
+    "Application.WhileEx1_2.executor": "Run",
+    "Application.WhileEx2.executor": "Run",
+    "Application.WhileEx2_2.executor": "Run",
+    "Application.WhileEx3_1.executor": "Run",
+    "Application.WhileEx3_2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/imminji/Documents/GitHub/JavaPractice/javaPractice/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="method" />
+      <recent name="array.ex" />
+      <recent name="array" />
+      <recent name="loop.ex" />
+      <recent name="loop" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Assign1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.Assign1" />
+      <module name="javaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Logical2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.Logical2" />
+      <module name="javaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx1" />
+      <module name="javaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx2" />
+      <module name="javaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperatorEx3" />
+      <module name="javaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OperatorEx3" />
+        <item itemvalue="Application.OperationEx2" />
+        <item itemvalue="Application.OperationEx1" />
+        <item itemvalue="Application.Assign1" />
+        <item itemvalue="Application.Logical2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b67f75fc-75e5-4dc1-992b-b09797b741e0" name="Changes" comment="" />
+      <created>1736408539978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736408539978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/scanner/ex/ScannerEx4.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
